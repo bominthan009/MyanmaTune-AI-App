@@ -289,4 +289,4 @@ const styles = {
   }
 };
 
-export default GenerateTab; 
+export default GenerateTab;
